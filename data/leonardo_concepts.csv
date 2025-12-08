@@ -1,0 +1,11 @@
+id,name,category,description
+C1,Proportion,Mathematics,"Mathematical proportions in art and architecture"
+C2,Human Anatomy,Anatomy,"Study of the human body structure"
+C3,Optics,Science,"Study of light and vision"
+C4,Perspective,Art,"Technique for representing 3D objects on 2D surfaces"
+C5,Mechanics,Engineering,"Study of motion and forces"
+C6,Botany,Science,"Study of plants"
+C7,Hydrology,Engineering,"Study of water movement"
+C8,Flight,Engineering,"Study of bird flight and flying machines"
+C9,Geometry,Mathematics,"Branch of mathematics concerned with shapes"
+C10,Philosophy,Philosophy,"Study of fundamental questions"

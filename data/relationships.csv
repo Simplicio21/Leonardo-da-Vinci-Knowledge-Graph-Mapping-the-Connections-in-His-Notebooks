@@ -1,0 +1,13 @@
+source,target,relationship,weight
+C1,C4,influences,2.0
+C1,C9,related_to,1.5
+C2,C5,influences,1.0
+C3,C4,influences,2.5
+C3,C10,related_to,0.8
+C4,C1,related_to,1.0
+C5,C8,influences,2.0
+C6,C10,related_to,0.5
+C7,C5,related_to,1.2
+C8,C5,influences,1.8
+C9,C1,related_to,1.0
+C10,C3,related_to,0.7
